@@ -1,0 +1,1 @@
+Best params: {'window_size': 9, 'hidden_dim': 101, 'mog_steps': 6, 'lr': 0.008771865007641193}

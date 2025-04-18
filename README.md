@@ -1,5 +1,6 @@
 VaR & ES Forecasting using Deep Learning
-Indu Sai Atla
+
+By Indu Sai Atla
 
 1. Project Overview
    
